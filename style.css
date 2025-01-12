@@ -1,0 +1,41 @@
+*{
+  color: white;
+  font-family: Poppins;
+  text-align: center;
+}
+
+body {
+  background: black;
+}
+
+#color-picker{
+  margin-top: 10px;
+  font-size: 20px;
+  height: 35px;
+  width: 35px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+#label {
+  font-size: 25px;
+  font-weight: 525;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+button {
+  background: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+  color: black;
+}
+
+
